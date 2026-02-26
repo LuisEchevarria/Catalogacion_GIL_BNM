@@ -1,0 +1,1035 @@
+2026-02-03 23:43:04,486 - INFO - Metadatos extraídos de 45CFH5MD1GV6CRXXMBQ2J237ML425B.pdf:
+2026-02-03 23:43:04,487 - INFO -   Title: Histoire sacrée de la providence et de la conduite de Dieu sur les hommes Depuis le commencement du monde jusqúiaux tem ps prédits dans l'Apocalypse, tirée de l'Ancien et du Nouveau Testament, representée en cinq cent tableaux gravez d'a prés Raphael et autres grands maítres et expliquée par les paroles méme de l'Ecriture en latin et en francois. Trois volumes in quarto. Dediée-- par Demarne.
+2026-02-03 23:43:04,487 - INFO -   Author: 
+2026-02-03 23:43:04,487 - INFO -   Subject: Año: 1728
+Clasificación: 220.084MAR.h.
+2026-02-03 23:43:04,487 - INFO -   Keywords: Histoire sacrée de la providence et de la conduite de Dieu sur les hommes Depuis le commencement du monde jusqúiaux tem ps prédits dans l'Apocalypse; tirée de l'Ancien et du Nouveau Testament; representée en cinq cent tableaux gravez d'a prés Raphael et autres grands maítres et expliquée par les paroles méme de l'Ecriture en latin et en francois. Trois volumes in quarto. Dediée-- par Demarne; 1728
+2026-02-03 23:43:04,488 - INFO -   Creator: Adobe Acrobat 10.1.1
+2026-02-03 23:43:04,491 - INFO - === Analizando 45CFH5MD1GV6CRXXMBQ2J237ML425B.pdf (7 de 70 páginas) ===
+2026-02-03 23:43:04,493 - DEBUG - Página 0: Pasta sin texto (penalización -150)
+2026-02-03 23:43:04,494 - DEBUG - Página 0: Score final = -150.0
+2026-02-03 23:43:04,533 - INFO - Página 0: score=-150.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:43:04,533 - DEBUG - Página 1: Score final = 20.0
+2026-02-03 23:43:04,562 - INFO - Página 1: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:43:04,563 - DEBUG - Página 2: Score final = 20.0
+2026-02-03 23:43:04,628 - INFO - Página 2: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:43:04,630 - DEBUG - Página 3: Score final = 20.0
+2026-02-03 23:43:04,677 - INFO - Página 3: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:43:04,678 - DEBUG - Página 4: Score final = 10.0
+2026-02-03 23:43:04,707 - INFO - Página 4: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:43:04,707 - DEBUG - Página 5: Score final = 10.0
+2026-02-03 23:43:04,737 - INFO - Página 5: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:43:04,738 - DEBUG - Página 6: Score final = 0.0
+2026-02-03 23:43:04,772 - INFO - Página 6: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:43:04,772 - INFO - ✅ Mejor portada: Página 1 (score=20.0)
+2026-02-03 23:43:04,988 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-03 23:43:04,988 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-03 23:43:04,988 - DEBUG - STREAM b'IDAT' 62 558418
+2026-02-03 23:43:05,579 - DEBUG - Intento 1/3 para 45CFH5MD1GV6CRXXMBQ2J237ML425B.pdf
+2026-02-03 23:43:05,592 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-03 23:43:11,647 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-03 23:43:13,735 - INFO - Metadatos extraídos de NX78QLFXT1XKTD9B6UST428UPQ2CPX.pdf:
+2026-02-03 23:43:13,735 - INFO -   Title: El Dr. D. Mariano Gálvez ante la primera sala de la Suprema Corte de Justicia, en el negocio del recurso de fuerza, que había interpuesto y después retiró el devoto provincial del Carmen, por la que el señor provisor y vicario general del arzobispado hacía en intentar conocer de la demanda sobre la enagenación [sic] de la hacienda de Chichimequillas
+2026-02-03 23:43:13,735 - INFO -   Author: Mariano Gálvez
+2026-02-03 23:43:13,735 - INFO -   Subject: Año: 1852
+Clasificación: 208 MIS.11
+2026-02-03 23:43:13,735 - INFO -   Keywords: El Dr. D. Mariano Gálvez ante la primera sala de la Suprema Corte de Justicia; en el negocio del recurso de fuerza; que había interpuesto y después retiró el devoto provincial del Carmen; por la que el señor provisor y vicario general del arzobispado hacía en intentar conocer de la demanda sobre la enagenación [sic] de la hacienda de Chichimequillas; Mariano Gálvez; 1852
+2026-02-03 23:43:13,735 - INFO -   Creator: Adobe Acrobat 10.1.1
+2026-02-03 23:43:13,736 - INFO - === Analizando NX78QLFXT1XKTD9B6UST428UPQ2CPX.pdf (7 de 57 páginas) ===
+2026-02-03 23:43:13,737 - DEBUG - Página 0: Pasta sin texto (penalización -150)
+2026-02-03 23:43:13,737 - DEBUG - Página 0: Score final = -150.0
+2026-02-03 23:43:13,764 - INFO - Página 0: score=-150.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:43:13,765 - DEBUG - Página 1: Score final = 20.0
+2026-02-03 23:43:13,791 - INFO - Página 1: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:43:13,792 - DEBUG - Página 2: Score final = 20.0
+2026-02-03 23:43:13,824 - INFO - Página 2: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:43:13,826 - DEBUG - Página 3: Score final = 20.0
+2026-02-03 23:43:13,854 - INFO - Página 3: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:43:13,856 - DEBUG - Página 4: Score final = 10.0
+2026-02-03 23:43:13,895 - INFO - Página 4: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:43:13,896 - DEBUG - Página 5: Score final = 10.0
+2026-02-03 23:43:13,950 - INFO - Página 5: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:43:13,951 - DEBUG - Página 6: Score final = 0.0
+2026-02-03 23:43:14,004 - INFO - Página 6: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:43:14,004 - INFO - ✅ Mejor portada: Página 1 (score=20.0)
+2026-02-03 23:43:14,332 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-03 23:43:14,332 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-03 23:43:14,332 - DEBUG - STREAM b'IDAT' 62 1913543
+2026-02-03 23:43:15,262 - DEBUG - Intento 1/3 para NX78QLFXT1XKTD9B6UST428UPQ2CPX.pdf
+2026-02-03 23:43:15,279 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-03 23:43:21,928 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-03 23:43:24,047 - INFO - Metadatos extraídos de SNFHQU8FUSU4EX5YAVC3Q7QRA3GTVQ.pdf:
+2026-02-03 23:43:24,047 - INFO -   Title: Sermón predicado en la Insigne Colegiata de Nuestra Señora de Guadalupe ... sobre el estado actual de los indios y su conversión, el 28 de octubre de 1895.
+2026-02-03 23:43:24,047 - INFO -   Author: José María Vilaseca
+2026-02-03 23:43:24,047 - INFO -   Subject: Año: 1895
+Clasificación: 282.72VIL.s.
+2026-02-03 23:43:24,047 - INFO -   Keywords: Sermón predicado en la Insigne Colegiata de Nuestra Señora de Guadalupe ... sobre el estado actual de los indios y su conversión; el 28 de octubre de 1895.; José María Vilaseca; 1895
+2026-02-03 23:43:24,047 - INFO -   Creator: Adobe Acrobat 10.1.1
+2026-02-03 23:43:24,048 - INFO - === Analizando SNFHQU8FUSU4EX5YAVC3Q7QRA3GTVQ.pdf (7 de 56 páginas) ===
+2026-02-03 23:43:24,049 - DEBUG - Página 0: Pasta sin texto (penalización -150)
+2026-02-03 23:43:24,049 - DEBUG - Página 0: Score final = -150.0
+2026-02-03 23:43:24,258 - INFO - Página 0: score=-150.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:43:24,259 - DEBUG - Página 1: Score final = 20.0
+2026-02-03 23:43:24,514 - INFO - Página 1: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:43:24,515 - DEBUG - Página 2: Score final = 20.0
+2026-02-03 23:43:24,738 - INFO - Página 2: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:43:24,738 - DEBUG - Página 3: Score final = 20.0
+2026-02-03 23:43:25,004 - INFO - Página 3: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:43:25,005 - DEBUG - Página 4: Score final = 10.0
+2026-02-03 23:43:25,314 - INFO - Página 4: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:43:25,315 - DEBUG - Página 5: Score final = 10.0
+2026-02-03 23:43:25,528 - INFO - Página 5: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:43:25,529 - DEBUG - Página 6: Score final = 0.0
+2026-02-03 23:43:25,848 - INFO - Página 6: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:43:25,848 - INFO - ✅ Mejor portada: Página 1 (score=20.0)
+2026-02-03 23:43:27,562 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-03 23:43:27,562 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-03 23:43:27,562 - DEBUG - STREAM b'IDAT' 62 10190944
+2026-02-03 23:43:30,032 - DEBUG - Intento 1/3 para SNFHQU8FUSU4EX5YAVC3Q7QRA3GTVQ.pdf
+2026-02-03 23:43:30,074 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-03 23:43:38,460 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-03 23:43:40,550 - INFO - Metadatos extraídos de 4TXMIT37X3F1I5IBR2EPC9UTCJH72A.pdf:
+2026-02-03 23:43:40,551 - INFO -   Title: [El héroe de Granaditas]
+2026-02-03 23:43:40,551 - INFO -   Author: 
+2026-02-03 23:43:40,551 - INFO -   Subject: Martínez, Juan José , llamado El Pípila 1792-1872
+2026-02-03 23:43:40,551 - INFO -   Keywords: 
+2026-02-03 23:43:40,551 - INFO -   Creator: México (D. F.). Dirección de Acción Cívica, de Reforma y Cultural
+2026-02-03 23:43:40,552 - INFO - === Analizando 4TXMIT37X3F1I5IBR2EPC9UTCJH72A.pdf (2 de 2 páginas) ===
+2026-02-03 23:43:40,553 - DEBUG - Página 0: Pasta sin texto (penalización -150)
+2026-02-03 23:43:40,554 - DEBUG - Página 0: Score final = -150.0
+2026-02-03 23:43:40,600 - INFO - Página 0: score=-150.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:43:40,601 - DEBUG - Página 1: Score final = 20.0
+2026-02-03 23:43:40,632 - INFO - Página 1: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:43:40,632 - INFO - ✅ Mejor portada: Página 1 (score=20.0)
+2026-02-03 23:43:41,151 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-03 23:43:41,151 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-03 23:43:41,151 - DEBUG - STREAM b'IDAT' 62 1336591
+2026-02-03 23:43:44,310 - DEBUG - Intento 1/3 para 4TXMIT37X3F1I5IBR2EPC9UTCJH72A.pdf
+2026-02-03 23:43:44,321 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-03 23:43:49,407 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-03 23:43:51,535 - INFO - Metadatos extraídos de AEQRB4F1I1F52U4MHVCAJDQYXQSAM5.pdf:
+2026-02-03 23:43:51,536 - INFO -   Title: Vocabulario manual de las lenguas castellana y mexicana en que se contienen las palabras preguntas
+2026-02-03 23:43:51,536 - INFO -   Author: Arenas Pedro
+2026-02-03 23:43:51,536 - INFO -   Subject: Año: 1885
+Clasificación:  497.436 ARE.v. 1885
+2026-02-03 23:43:51,536 - INFO -   Keywords: Vocabulario manual de las lenguas castellana y mexicana en que se contienen las palabras preguntas; Arenas Pedro; 1885
+2026-02-03 23:43:51,536 - INFO -   Creator: Adobe Acrobat 10.1.16
+2026-02-03 23:43:51,539 - INFO - === Analizando AEQRB4F1I1F52U4MHVCAJDQYXQSAM5.pdf (7 de 160 páginas) ===
+2026-02-03 23:43:51,541 - DEBUG - Página 0: Pasta sin texto (penalización -150)
+2026-02-03 23:43:51,541 - DEBUG - Página 0: Score final = -150.0
+2026-02-03 23:43:51,569 - INFO - Página 0: score=-150.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:43:51,571 - DEBUG - Página 1: Score final = 20.0
+2026-02-03 23:43:51,598 - INFO - Página 1: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:43:51,598 - DEBUG - Página 2: Score final = 20.0
+2026-02-03 23:43:51,638 - INFO - Página 2: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:43:51,640 - DEBUG - Página 3: Score final = 20.0
+2026-02-03 23:43:51,703 - INFO - Página 3: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:43:51,705 - DEBUG - Página 4: Score final = 10.0
+2026-02-03 23:43:51,758 - INFO - Página 4: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:43:51,759 - DEBUG - Página 5: Score final = 10.0
+2026-02-03 23:43:51,822 - INFO - Página 5: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:43:51,824 - DEBUG - Página 6: Score final = 0.0
+2026-02-03 23:43:51,886 - INFO - Página 6: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:43:51,886 - INFO - ✅ Mejor portada: Página 1 (score=20.0)
+2026-02-03 23:43:52,180 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-03 23:43:52,180 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-03 23:43:52,180 - DEBUG - STREAM b'IDAT' 62 1466913
+2026-02-03 23:43:53,612 - DEBUG - Intento 1/3 para AEQRB4F1I1F52U4MHVCAJDQYXQSAM5.pdf
+2026-02-03 23:43:53,624 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-03 23:43:59,216 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-03 23:44:01,324 - INFO - Metadatos extraídos de GJYQCFTN4YEC59PN7PEK5HJX838FAM.pdf:
+2026-02-03 23:44:01,324 - INFO -   Title: Isaac Arriaga : trabajos premiados en el concurso escolar de biografías, abierto por la Biblioteca Isaac Arriaga en la Casa del Agrarista ..
+2026-02-03 23:44:01,324 - INFO -   Author: 
+2026-02-03 23:44:01,324 - INFO -   Subject: Arriaga, Isaac 1890-1921
+2026-02-03 23:44:01,324 - INFO -   Keywords: 
+2026-02-03 23:44:01,324 - INFO -   Creator: Biblioteca Isaac Arriaga (México)
+2026-02-03 23:44:01,325 - INFO - === Analizando GJYQCFTN4YEC59PN7PEK5HJX838FAM.pdf (7 de 30 páginas) ===
+2026-02-03 23:44:01,326 - DEBUG - Página 0: Pasta sin texto (penalización -150)
+2026-02-03 23:44:01,326 - DEBUG - Página 0: Score final = -150.0
+2026-02-03 23:44:01,453 - INFO - Página 0: score=-150.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:44:01,453 - DEBUG - Página 1: Score final = 20.0
+2026-02-03 23:44:01,491 - INFO - Página 1: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:44:01,492 - DEBUG - Página 2: Score final = 20.0
+2026-02-03 23:44:01,525 - INFO - Página 2: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:44:01,526 - DEBUG - Página 3: Score final = 20.0
+2026-02-03 23:44:01,558 - INFO - Página 3: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:44:01,559 - DEBUG - Página 4: Score final = 10.0
+2026-02-03 23:44:01,590 - INFO - Página 4: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:44:01,591 - DEBUG - Página 5: Score final = 10.0
+2026-02-03 23:44:01,622 - INFO - Página 5: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:44:01,624 - DEBUG - Página 6: Score final = 0.0
+2026-02-03 23:44:01,655 - INFO - Página 6: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:44:01,655 - INFO - ✅ Mejor portada: Página 1 (score=20.0)
+2026-02-03 23:44:02,483 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-03 23:44:02,483 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-03 23:44:02,483 - DEBUG - STREAM b'IDAT' 62 1643247
+2026-02-03 23:44:05,133 - DEBUG - Intento 1/3 para GJYQCFTN4YEC59PN7PEK5HJX838FAM.pdf
+2026-02-03 23:44:05,140 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-03 23:44:11,922 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-03 23:44:14,522 - INFO - Metadatos extraídos de LD8XX5KEC2EQNCR9IX2RTPL9X1KQ1K.pdf:
+2026-02-03 23:44:14,522 - INFO -   Title: Españoles en el periodismo mexicano : siglo XIX y XX / comp. y ed. Pablo Mora y Ángel Miquel.
+2026-02-03 23:44:14,523 - INFO -   Author: 
+2026-02-03 23:44:14,523 - INFO -   Subject: Españoles México Historia Siglo XIX -  Españoles México Historia Siglo XX -  Periodismo México Historia Siglo XIX -  Periodismo México Historia Siglo XX
+2026-02-03 23:44:14,523 - INFO -   Keywords: 
+2026-02-03 23:44:14,523 - INFO -   Creator: 
+2026-02-03 23:44:14,529 - INFO - === Analizando LD8XX5KEC2EQNCR9IX2RTPL9X1KQ1K.pdf (7 de 367 páginas) ===
+2026-02-03 23:44:14,530 - DEBUG - Página 0: Pasta sin texto (penalización -150)
+2026-02-03 23:44:14,530 - DEBUG - Página 0: Score final = -150.0
+2026-02-03 23:44:14,607 - INFO - Página 0: score=-150.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:44:14,609 - DEBUG - Página 1: Score final = 20.0
+2026-02-03 23:44:14,673 - INFO - Página 1: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:44:14,674 - DEBUG - Página 2: Score final = 20.0
+2026-02-03 23:44:14,735 - INFO - Página 2: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:44:14,735 - DEBUG - Página 3: Score final = 20.0
+2026-02-03 23:44:14,805 - INFO - Página 3: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:44:14,806 - DEBUG - Página 4: Score final = 10.0
+2026-02-03 23:44:14,870 - INFO - Página 4: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:44:14,871 - DEBUG - Página 5: Score final = 10.0
+2026-02-03 23:44:14,938 - INFO - Página 5: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:44:14,940 - DEBUG - Página 6: Score final = 0.0
+2026-02-03 23:44:15,007 - INFO - Página 6: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:44:15,007 - INFO - ✅ Mejor portada: Página 1 (score=20.0)
+2026-02-03 23:44:15,394 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-03 23:44:15,395 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-03 23:44:15,395 - DEBUG - STREAM b'IDAT' 62 1487216
+2026-02-03 23:44:19,400 - DEBUG - Intento 1/3 para LD8XX5KEC2EQNCR9IX2RTPL9X1KQ1K.pdf
+2026-02-03 23:44:19,413 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-03 23:44:25,136 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-03 23:44:27,590 - INFO - Metadatos extraídos de 7M644C8C2CK2NU3T9V9XR7QR3AM352.pdf:
+2026-02-03 23:44:27,591 - INFO -   Title: La religión azteca / Juan Carlos Pérez Guerrero
+2026-02-03 23:44:27,591 - INFO -   Author: 
+2026-02-03 23:44:27,591 - INFO -   Subject: Aztecas Religión
+2026-02-03 23:44:27,591 - INFO -   Keywords: 
+2026-02-03 23:44:27,591 - INFO -   Creator: Pérez Guerrero, Juan Carlos
+2026-02-03 23:44:27,591 - INFO - === Analizando 7M644C8C2CK2NU3T9V9XR7QR3AM352.pdf (7 de 116 páginas) ===
+2026-02-03 23:44:27,608 - DEBUG - Página 0: Keywords de portada (+60)
+2026-02-03 23:44:27,609 - DEBUG - Página 0: Cantidad ideal de palabras (+35)
+2026-02-03 23:44:27,609 - DEBUG - Página 0: Score final = 95.0
+2026-02-03 23:44:28,316 - INFO - Página 0: score=95.0, palabras=5, imágenes=1, keywords=True
+2026-02-03 23:44:28,318 - DEBUG - Página 1: Keywords de portada (+60)
+2026-02-03 23:44:28,319 - DEBUG - Página 1: Cantidad ideal de palabras (+35)
+2026-02-03 23:44:28,319 - DEBUG - Página 1: Score final = 115.0
+2026-02-03 23:44:28,743 - INFO - Página 1: score=115.0, palabras=5, imágenes=1, keywords=True
+2026-02-03 23:44:28,745 - DEBUG - Página 2: Keywords de portada (+60)
+2026-02-03 23:44:28,745 - DEBUG - Página 2: Cantidad ideal de palabras (+35)
+2026-02-03 23:44:28,745 - DEBUG - Página 2: Score final = 115.0
+2026-02-03 23:44:29,197 - INFO - Página 2: score=115.0, palabras=5, imágenes=1, keywords=True
+2026-02-03 23:44:29,198 - DEBUG - Página 3: Keywords de portada (+60)
+2026-02-03 23:44:29,198 - DEBUG - Página 3: Cantidad ideal de palabras (+35)
+2026-02-03 23:44:29,198 - DEBUG - Página 3: Score final = 115.0
+2026-02-03 23:44:29,646 - INFO - Página 3: score=115.0, palabras=5, imágenes=1, keywords=True
+2026-02-03 23:44:29,648 - DEBUG - Página 4: Keywords de portada (+60)
+2026-02-03 23:44:29,648 - DEBUG - Página 4: Cantidad ideal de palabras (+35)
+2026-02-03 23:44:29,648 - DEBUG - Página 4: Score final = 105.0
+2026-02-03 23:44:29,869 - INFO - Página 4: score=105.0, palabras=5, imágenes=1, keywords=True
+2026-02-03 23:44:29,870 - DEBUG - Página 5: Keywords de portada (+60)
+2026-02-03 23:44:29,870 - DEBUG - Página 5: Cantidad ideal de palabras (+35)
+2026-02-03 23:44:29,870 - DEBUG - Página 5: Score final = 105.0
+2026-02-03 23:44:30,028 - INFO - Página 5: score=105.0, palabras=5, imágenes=1, keywords=True
+2026-02-03 23:44:30,029 - DEBUG - Página 6: Keywords de portada (+60)
+2026-02-03 23:44:30,029 - DEBUG - Página 6: Cantidad ideal de palabras (+35)
+2026-02-03 23:44:30,029 - DEBUG - Página 6: Score final = 95.0
+2026-02-03 23:44:30,178 - INFO - Página 6: score=95.0, palabras=5, imágenes=1, keywords=True
+2026-02-03 23:44:30,178 - INFO - ✅ Mejor portada: Página 1 (score=115.0)
+2026-02-03 23:44:31,704 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-03 23:44:31,704 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-03 23:44:31,705 - DEBUG - STREAM b'IDAT' 62 3787558
+2026-02-03 23:44:38,195 - DEBUG - Intento 1/3 para 7M644C8C2CK2NU3T9V9XR7QR3AM352.pdf
+2026-02-03 23:44:38,232 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-03 23:44:44,769 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-03 23:44:46,900 - INFO - Metadatos extraídos de UL3QGMNJ4GN85GBR2BILEJTEAQDVJ1.pdf:
+2026-02-03 23:44:46,900 - INFO -   Title: El cepo :zarzuela regional histórica en un acto i tres cuadros.
+2026-02-03 23:44:46,900 - INFO -   Author: Santiago Pacheco Cruz
+2026-02-03 23:44:46,900 - INFO -   Subject: El cepo :zarzuela regional histórica en un acto i tres cuadros, en un acto i tres cuadros, Santiago Pacheco Cruz, 000195785_ 67-8554, G 808.82 MIS.12, 1927
+2026-02-03 23:44:46,900 - INFO -   Keywords: 000195785_ 67-8554; 1927
+2026-02-03 23:44:46,900 - INFO -   Creator: Adobe Acrobat 19.21
+2026-02-03 23:44:46,901 - INFO - === Analizando UL3QGMNJ4GN85GBR2BILEJTEAQDVJ1.pdf (7 de 36 páginas) ===
+2026-02-03 23:44:46,902 - DEBUG - Página 0: Pasta sin texto (penalización -150)
+2026-02-03 23:44:46,902 - DEBUG - Página 0: Score final = -150.0
+2026-02-03 23:44:46,958 - INFO - Página 0: score=-150.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:44:46,959 - DEBUG - Página 1: Score final = 20.0
+2026-02-03 23:44:46,992 - INFO - Página 1: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:44:46,993 - DEBUG - Página 2: Score final = 20.0
+2026-02-03 23:44:47,025 - INFO - Página 2: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:44:47,025 - DEBUG - Página 3: Score final = 20.0
+2026-02-03 23:44:47,057 - INFO - Página 3: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:44:47,058 - DEBUG - Página 4: Score final = 10.0
+2026-02-03 23:44:47,092 - INFO - Página 4: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:44:47,092 - DEBUG - Página 5: Score final = 10.0
+2026-02-03 23:44:47,139 - INFO - Página 5: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:44:47,140 - DEBUG - Página 6: Score final = 0.0
+2026-02-03 23:44:47,182 - INFO - Página 6: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:44:47,182 - INFO - ✅ Mejor portada: Página 1 (score=20.0)
+2026-02-03 23:44:47,441 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-03 23:44:47,441 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-03 23:44:47,441 - DEBUG - STREAM b'IDAT' 62 781326
+2026-02-03 23:44:48,773 - DEBUG - Intento 1/3 para UL3QGMNJ4GN85GBR2BILEJTEAQDVJ1.pdf
+2026-02-03 23:44:48,777 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-03 23:44:54,905 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-03 23:44:57,068 - INFO - Metadatos extraídos de 93J7RV624H3BTCJUVS8NRS6RENUYIQ.pdf:
+2026-02-03 23:44:57,068 - INFO -   Title: La defensa de la plaza de Zaragoza en 1863 /Jesus G. Ortega.
+2026-02-03 23:44:57,068 - INFO -   Author: Jesús González Ortega; 1822-1881.
+2026-02-03 23:44:57,068 - INFO -   Subject: La defensa de la plaza de Zaragoza en 1863 /Jesus G. Ortega, Jesús González Ortega, 1822-1881, 000280181_EHM_67-029549, E 972.073 GON.d. 1881, 1881.
+2026-02-03 23:44:57,068 - INFO -   Keywords: 000280181_EHM_67-029549; 1881
+2026-02-03 23:44:57,068 - INFO -   Creator: Adobe Acrobat 19.21
+2026-02-03 23:44:57,069 - INFO - === Analizando 93J7RV624H3BTCJUVS8NRS6RENUYIQ.pdf (7 de 179 páginas) ===
+2026-02-03 23:44:57,071 - DEBUG - Página 0: Pasta sin texto (penalización -150)
+2026-02-03 23:44:57,071 - DEBUG - Página 0: Score final = -150.0
+2026-02-03 23:44:57,120 - INFO - Página 0: score=-150.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:44:57,120 - DEBUG - Página 1: Score final = 20.0
+2026-02-03 23:44:57,169 - INFO - Página 1: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:44:57,170 - DEBUG - Página 2: Score final = 20.0
+2026-02-03 23:44:57,255 - INFO - Página 2: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:44:57,256 - DEBUG - Página 3: Score final = 20.0
+2026-02-03 23:44:57,322 - INFO - Página 3: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:44:57,322 - DEBUG - Página 4: Score final = 10.0
+2026-02-03 23:44:57,369 - INFO - Página 4: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:44:57,370 - DEBUG - Página 5: Score final = 10.0
+2026-02-03 23:44:57,418 - INFO - Página 5: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:44:57,418 - DEBUG - Página 6: Score final = 0.0
+2026-02-03 23:44:57,466 - INFO - Página 6: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:44:57,466 - INFO - ✅ Mejor portada: Página 1 (score=20.0)
+2026-02-03 23:44:57,932 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-03 23:44:57,933 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-03 23:44:57,933 - DEBUG - STREAM b'IDAT' 62 1349958
+2026-02-03 23:44:59,634 - DEBUG - Intento 1/3 para 93J7RV624H3BTCJUVS8NRS6RENUYIQ.pdf
+2026-02-03 23:44:59,641 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-03 23:45:04,568 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-03 23:45:06,657 - INFO - Metadatos extraídos de Constancia_carro.pdf:
+2026-02-03 23:45:06,658 - INFO -   Title: Constancia
+2026-02-03 23:45:06,658 - INFO -   Author: 
+2026-02-03 23:45:06,659 - INFO -   Subject: 
+2026-02-03 23:45:06,659 - INFO -   Keywords: 
+2026-02-03 23:45:06,659 - INFO -   Creator: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+2026-02-03 23:45:06,660 - INFO - === Analizando Constancia_carro.pdf (1 de 1 páginas) ===
+2026-02-03 23:45:06,683 - DEBUG - Página 0: Muchos párrafos (-40)
+2026-02-03 23:45:06,683 - DEBUG - Página 0: Score final = -40.0
+2026-02-03 23:45:06,738 - INFO - Página 0: score=-40.0, palabras=347, imágenes=7, keywords=False
+2026-02-03 23:45:06,738 - INFO - ✅ Mejor portada: Página 0 (score=-40.0)
+2026-02-03 23:45:06,939 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-03 23:45:06,939 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-03 23:45:06,939 - DEBUG - STREAM b'IDAT' 62 399528
+2026-02-03 23:45:07,562 - DEBUG - Intento 1/3 para Constancia_carro.pdf
+2026-02-03 23:45:07,566 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-03 23:45:12,549 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-03 23:45:13,198 - INFO - DB sincronizada exitosamente. 11 libros.
+2026-02-03 23:46:22,479 - INFO - Metadatos extraídos de NNIJ3VG71C4P5AR36RKH3J7CF6ITGG.pdf:
+2026-02-03 23:46:22,479 - INFO -   Title: Presupuesto Disposiciones
+2026-02-03 23:46:22,479 - INFO -   Author: 
+2026-02-03 23:46:22,479 - INFO -   Subject: Año: 1869
+Clasificación: Carpeta 2, exp. 18, 2 h
+2026-02-03 23:46:22,479 - INFO -   Keywords: Presupuesto Disposiciones; 1869
+2026-02-03 23:46:22,479 - INFO -   Creator: Adobe Acrobat 10.1.1
+2026-02-03 23:46:22,480 - INFO - === Analizando NNIJ3VG71C4P5AR36RKH3J7CF6ITGG.pdf (5 de 5 páginas) ===
+2026-02-03 23:46:22,481 - DEBUG - Página 0: Pasta sin texto (penalización -150)
+2026-02-03 23:46:22,481 - DEBUG - Página 0: Score final = -150.0
+2026-02-03 23:46:22,573 - INFO - Página 0: score=-150.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:46:22,573 - DEBUG - Página 1: Score final = 20.0
+2026-02-03 23:46:22,647 - INFO - Página 1: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:46:22,649 - DEBUG - Página 2: Score final = 20.0
+2026-02-03 23:46:22,699 - INFO - Página 2: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:46:22,700 - DEBUG - Página 3: Score final = 20.0
+2026-02-03 23:46:22,756 - INFO - Página 3: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:46:22,756 - DEBUG - Página 4: Score final = 10.0
+2026-02-03 23:46:22,811 - INFO - Página 4: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:46:22,811 - INFO - ✅ Mejor portada: Página 1 (score=20.0)
+2026-02-03 23:46:23,240 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-03 23:46:23,240 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-03 23:46:23,241 - DEBUG - STREAM b'IDAT' 62 1108675
+2026-02-03 23:46:24,183 - DEBUG - Intento 1/3 para NNIJ3VG71C4P5AR36RKH3J7CF6ITGG.pdf
+2026-02-03 23:46:24,195 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-03 23:46:31,616 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-03 23:46:31,618 - INFO -   ✓ Autor extraído de 'subject': 
+2026-02-03 23:46:31,744 - INFO - DB sincronizada exitosamente. 12 libros.
+2026-02-03 23:56:45,431 - INFO - Metadatos extraídos de 45CFH5MD1GV6CRXXMBQ2J237ML425B.pdf:
+2026-02-03 23:56:45,431 - INFO -   Title: Histoire sacrée de la providence et de la conduite de Dieu sur les hommes Depuis le commencement du monde jusqúiaux tem ps prédits dans l'Apocalypse, tirée de l'Ancien et du Nouveau Testament, representée en cinq cent tableaux gravez d'a prés Raphael et autres grands maítres et expliquée par les paroles méme de l'Ecriture en latin et en francois. Trois volumes in quarto. Dediée-- par Demarne.
+2026-02-03 23:56:45,431 - INFO -   Author: 
+2026-02-03 23:56:45,431 - INFO -   Subject: Año: 1728
+Clasificación: 220.084MAR.h.
+2026-02-03 23:56:45,431 - INFO -   Keywords: Histoire sacrée de la providence et de la conduite de Dieu sur les hommes Depuis le commencement du monde jusqúiaux tem ps prédits dans l'Apocalypse; tirée de l'Ancien et du Nouveau Testament; representée en cinq cent tableaux gravez d'a prés Raphael et autres grands maítres et expliquée par les paroles méme de l'Ecriture en latin et en francois. Trois volumes in quarto. Dediée-- par Demarne; 1728
+2026-02-03 23:56:45,431 - INFO -   Creator: Adobe Acrobat 10.1.1
+2026-02-03 23:56:45,432 - INFO - === Analizando 45CFH5MD1GV6CRXXMBQ2J237ML425B.pdf (8 de 70 páginas) ===
+2026-02-03 23:56:45,434 - DEBUG - Página 0: Pasta sin texto (penalización -150)
+2026-02-03 23:56:45,435 - DEBUG - Página 0: Score final = -150.0
+2026-02-03 23:56:45,470 - INFO - Página 0: score=-150.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:56:45,471 - DEBUG - Página 1: Score final = 20.0
+2026-02-03 23:56:45,500 - INFO - Página 1: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:56:45,501 - DEBUG - Página 2: Score final = 20.0
+2026-02-03 23:56:45,531 - INFO - Página 2: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:56:45,532 - DEBUG - Página 3: Score final = 20.0
+2026-02-03 23:56:45,561 - INFO - Página 3: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:56:45,562 - DEBUG - Página 4: Score final = 10.0
+2026-02-03 23:56:45,592 - INFO - Página 4: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:56:45,593 - DEBUG - Página 5: Score final = 10.0
+2026-02-03 23:56:45,624 - INFO - Página 5: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:56:45,625 - DEBUG - Página 6: Score final = 0.0
+2026-02-03 23:56:45,655 - INFO - Página 6: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:56:45,656 - DEBUG - Página 7: Score final = 0.0
+2026-02-03 23:56:45,689 - INFO - Página 7: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:56:45,689 - INFO - ✅ Mejor portada: Página 1 (score=20.0)
+2026-02-03 23:56:45,852 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-03 23:56:45,852 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-03 23:56:45,853 - DEBUG - STREAM b'IDAT' 62 558418
+2026-02-03 23:56:46,507 - DEBUG - Intento 1/3 para 45CFH5MD1GV6CRXXMBQ2J237ML425B.pdf
+2026-02-03 23:56:46,522 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-03 23:56:54,781 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-03 23:56:56,883 - INFO - Metadatos extraídos de NX78QLFXT1XKTD9B6UST428UPQ2CPX.pdf:
+2026-02-03 23:56:56,883 - INFO -   Title: El Dr. D. Mariano Gálvez ante la primera sala de la Suprema Corte de Justicia, en el negocio del recurso de fuerza, que había interpuesto y después retiró el devoto provincial del Carmen, por la que el señor provisor y vicario general del arzobispado hacía en intentar conocer de la demanda sobre la enagenación [sic] de la hacienda de Chichimequillas
+2026-02-03 23:56:56,883 - INFO -   Author: Mariano Gálvez
+2026-02-03 23:56:56,884 - INFO -   Subject: Año: 1852
+Clasificación: 208 MIS.11
+2026-02-03 23:56:56,884 - INFO -   Keywords: El Dr. D. Mariano Gálvez ante la primera sala de la Suprema Corte de Justicia; en el negocio del recurso de fuerza; que había interpuesto y después retiró el devoto provincial del Carmen; por la que el señor provisor y vicario general del arzobispado hacía en intentar conocer de la demanda sobre la enagenación [sic] de la hacienda de Chichimequillas; Mariano Gálvez; 1852
+2026-02-03 23:56:56,884 - INFO -   Creator: Adobe Acrobat 10.1.1
+2026-02-03 23:56:56,886 - INFO - === Analizando NX78QLFXT1XKTD9B6UST428UPQ2CPX.pdf (8 de 57 páginas) ===
+2026-02-03 23:56:56,888 - DEBUG - Página 0: Pasta sin texto (penalización -150)
+2026-02-03 23:56:56,888 - DEBUG - Página 0: Score final = -150.0
+2026-02-03 23:56:56,934 - INFO - Página 0: score=-150.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:56:56,936 - DEBUG - Página 1: Score final = 20.0
+2026-02-03 23:56:56,977 - INFO - Página 1: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:56:56,978 - DEBUG - Página 2: Score final = 20.0
+2026-02-03 23:56:57,004 - INFO - Página 2: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:56:57,005 - DEBUG - Página 3: Score final = 20.0
+2026-02-03 23:56:57,034 - INFO - Página 3: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:56:57,035 - DEBUG - Página 4: Score final = 10.0
+2026-02-03 23:56:57,066 - INFO - Página 4: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:56:57,067 - DEBUG - Página 5: Score final = 10.0
+2026-02-03 23:56:57,100 - INFO - Página 5: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:56:57,101 - DEBUG - Página 6: Score final = 0.0
+2026-02-03 23:56:57,124 - INFO - Página 6: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:56:57,125 - DEBUG - Página 7: Score final = 0.0
+2026-02-03 23:56:57,198 - INFO - Página 7: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:56:57,198 - INFO - ✅ Mejor portada: Página 1 (score=20.0)
+2026-02-03 23:56:57,399 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-03 23:56:57,399 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-03 23:56:57,400 - DEBUG - STREAM b'IDAT' 62 1913543
+2026-02-03 23:56:58,544 - DEBUG - Intento 1/3 para NX78QLFXT1XKTD9B6UST428UPQ2CPX.pdf
+2026-02-03 23:56:58,563 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-03 23:57:05,937 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-03 23:57:08,095 - INFO - Metadatos extraídos de SNFHQU8FUSU4EX5YAVC3Q7QRA3GTVQ.pdf:
+2026-02-03 23:57:08,095 - INFO -   Title: Sermón predicado en la Insigne Colegiata de Nuestra Señora de Guadalupe ... sobre el estado actual de los indios y su conversión, el 28 de octubre de 1895.
+2026-02-03 23:57:08,095 - INFO -   Author: José María Vilaseca
+2026-02-03 23:57:08,095 - INFO -   Subject: Año: 1895
+Clasificación: 282.72VIL.s.
+2026-02-03 23:57:08,095 - INFO -   Keywords: Sermón predicado en la Insigne Colegiata de Nuestra Señora de Guadalupe ... sobre el estado actual de los indios y su conversión; el 28 de octubre de 1895.; José María Vilaseca; 1895
+2026-02-03 23:57:08,095 - INFO -   Creator: Adobe Acrobat 10.1.1
+2026-02-03 23:57:08,096 - INFO - === Analizando SNFHQU8FUSU4EX5YAVC3Q7QRA3GTVQ.pdf (8 de 56 páginas) ===
+2026-02-03 23:57:08,097 - DEBUG - Página 0: Pasta sin texto (penalización -150)
+2026-02-03 23:57:08,097 - DEBUG - Página 0: Score final = -150.0
+2026-02-03 23:57:08,296 - INFO - Página 0: score=-150.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:57:08,296 - DEBUG - Página 1: Score final = 20.0
+2026-02-03 23:57:08,480 - INFO - Página 1: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:57:08,480 - DEBUG - Página 2: Score final = 20.0
+2026-02-03 23:57:08,663 - INFO - Página 2: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:57:08,664 - DEBUG - Página 3: Score final = 20.0
+2026-02-03 23:57:08,867 - INFO - Página 3: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:57:08,867 - DEBUG - Página 4: Score final = 10.0
+2026-02-03 23:57:09,051 - INFO - Página 4: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:57:09,051 - DEBUG - Página 5: Score final = 10.0
+2026-02-03 23:57:09,263 - INFO - Página 5: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:57:09,264 - DEBUG - Página 6: Score final = 0.0
+2026-02-03 23:57:09,503 - INFO - Página 6: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:57:09,504 - DEBUG - Página 7: Score final = 0.0
+2026-02-03 23:57:09,818 - INFO - Página 7: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:57:09,818 - INFO - ✅ Mejor portada: Página 1 (score=20.0)
+2026-02-03 23:57:11,529 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-03 23:57:11,530 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-03 23:57:11,531 - DEBUG - STREAM b'IDAT' 62 10190944
+2026-02-03 23:57:13,836 - DEBUG - Intento 1/3 para SNFHQU8FUSU4EX5YAVC3Q7QRA3GTVQ.pdf
+2026-02-03 23:57:13,881 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-03 23:57:23,174 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-03 23:57:25,317 - INFO - Metadatos extraídos de 4TXMIT37X3F1I5IBR2EPC9UTCJH72A.pdf:
+2026-02-03 23:57:25,317 - INFO -   Title: [El héroe de Granaditas]
+2026-02-03 23:57:25,317 - INFO -   Author: 
+2026-02-03 23:57:25,317 - INFO -   Subject: Martínez, Juan José , llamado El Pípila 1792-1872
+2026-02-03 23:57:25,317 - INFO -   Keywords: 
+2026-02-03 23:57:25,318 - INFO -   Creator: México (D. F.). Dirección de Acción Cívica, de Reforma y Cultural
+2026-02-03 23:57:25,319 - INFO - === Analizando 4TXMIT37X3F1I5IBR2EPC9UTCJH72A.pdf (2 de 2 páginas) ===
+2026-02-03 23:57:25,320 - DEBUG - Página 0: Pasta sin texto (penalización -150)
+2026-02-03 23:57:25,320 - DEBUG - Página 0: Score final = -150.0
+2026-02-03 23:57:25,370 - INFO - Página 0: score=-150.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:57:25,371 - DEBUG - Página 1: Score final = 20.0
+2026-02-03 23:57:25,404 - INFO - Página 1: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:57:25,404 - INFO - ✅ Mejor portada: Página 1 (score=20.0)
+2026-02-03 23:57:25,994 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-03 23:57:25,995 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-03 23:57:25,996 - DEBUG - STREAM b'IDAT' 62 1336591
+2026-02-03 23:57:29,139 - DEBUG - Intento 1/3 para 4TXMIT37X3F1I5IBR2EPC9UTCJH72A.pdf
+2026-02-03 23:57:29,145 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-03 23:57:34,312 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-03 23:57:36,448 - INFO - Metadatos extraídos de AEQRB4F1I1F52U4MHVCAJDQYXQSAM5.pdf:
+2026-02-03 23:57:36,449 - INFO -   Title: Vocabulario manual de las lenguas castellana y mexicana en que se contienen las palabras preguntas
+2026-02-03 23:57:36,449 - INFO -   Author: Arenas Pedro
+2026-02-03 23:57:36,449 - INFO -   Subject: Año: 1885
+Clasificación:  497.436 ARE.v. 1885
+2026-02-03 23:57:36,449 - INFO -   Keywords: Vocabulario manual de las lenguas castellana y mexicana en que se contienen las palabras preguntas; Arenas Pedro; 1885
+2026-02-03 23:57:36,449 - INFO -   Creator: Adobe Acrobat 10.1.16
+2026-02-03 23:57:36,452 - INFO - === Analizando AEQRB4F1I1F52U4MHVCAJDQYXQSAM5.pdf (8 de 160 páginas) ===
+2026-02-03 23:57:36,453 - DEBUG - Página 0: Pasta sin texto (penalización -150)
+2026-02-03 23:57:36,453 - DEBUG - Página 0: Score final = -150.0
+2026-02-03 23:57:36,475 - INFO - Página 0: score=-150.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:57:36,476 - DEBUG - Página 1: Score final = 20.0
+2026-02-03 23:57:36,500 - INFO - Página 1: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:57:36,500 - DEBUG - Página 2: Score final = 20.0
+2026-02-03 23:57:36,524 - INFO - Página 2: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:57:36,524 - DEBUG - Página 3: Score final = 20.0
+2026-02-03 23:57:36,556 - INFO - Página 3: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:57:36,557 - DEBUG - Página 4: Score final = 10.0
+2026-02-03 23:57:36,582 - INFO - Página 4: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:57:36,583 - DEBUG - Página 5: Score final = 10.0
+2026-02-03 23:57:36,607 - INFO - Página 5: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:57:36,607 - DEBUG - Página 6: Score final = 0.0
+2026-02-03 23:57:36,632 - INFO - Página 6: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:57:36,633 - DEBUG - Página 7: Score final = 0.0
+2026-02-03 23:57:36,657 - INFO - Página 7: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:57:36,657 - INFO - ✅ Mejor portada: Página 1 (score=20.0)
+2026-02-03 23:57:36,867 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-03 23:57:36,867 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-03 23:57:36,868 - DEBUG - STREAM b'IDAT' 62 1466913
+2026-02-03 23:57:37,923 - DEBUG - Intento 1/3 para AEQRB4F1I1F52U4MHVCAJDQYXQSAM5.pdf
+2026-02-03 23:57:37,935 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-03 23:57:42,918 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-03 23:57:45,009 - INFO - Metadatos extraídos de GJYQCFTN4YEC59PN7PEK5HJX838FAM.pdf:
+2026-02-03 23:57:45,009 - INFO -   Title: Isaac Arriaga : trabajos premiados en el concurso escolar de biografías, abierto por la Biblioteca Isaac Arriaga en la Casa del Agrarista ..
+2026-02-03 23:57:45,009 - INFO -   Author: 
+2026-02-03 23:57:45,010 - INFO -   Subject: Arriaga, Isaac 1890-1921
+2026-02-03 23:57:45,010 - INFO -   Keywords: 
+2026-02-03 23:57:45,010 - INFO -   Creator: Biblioteca Isaac Arriaga (México)
+2026-02-03 23:57:45,011 - INFO - === Analizando GJYQCFTN4YEC59PN7PEK5HJX838FAM.pdf (8 de 30 páginas) ===
+2026-02-03 23:57:45,012 - DEBUG - Página 0: Pasta sin texto (penalización -150)
+2026-02-03 23:57:45,012 - DEBUG - Página 0: Score final = -150.0
+2026-02-03 23:57:45,136 - INFO - Página 0: score=-150.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:57:45,138 - DEBUG - Página 1: Score final = 20.0
+2026-02-03 23:57:45,203 - INFO - Página 1: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:57:45,205 - DEBUG - Página 2: Score final = 20.0
+2026-02-03 23:57:45,268 - INFO - Página 2: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:57:45,270 - DEBUG - Página 3: Score final = 20.0
+2026-02-03 23:57:45,340 - INFO - Página 3: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:57:45,342 - DEBUG - Página 4: Score final = 10.0
+2026-02-03 23:57:45,402 - INFO - Página 4: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:57:45,403 - DEBUG - Página 5: Score final = 10.0
+2026-02-03 23:57:45,479 - INFO - Página 5: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:57:45,480 - DEBUG - Página 6: Score final = 0.0
+2026-02-03 23:57:45,548 - INFO - Página 6: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:57:45,549 - DEBUG - Página 7: Score final = 0.0
+2026-02-03 23:57:45,604 - INFO - Página 7: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:57:45,605 - INFO - ✅ Mejor portada: Página 1 (score=20.0)
+2026-02-03 23:57:46,415 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-03 23:57:46,417 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-03 23:57:46,417 - DEBUG - STREAM b'IDAT' 62 1643247
+2026-02-03 23:57:49,237 - DEBUG - Intento 1/3 para GJYQCFTN4YEC59PN7PEK5HJX838FAM.pdf
+2026-02-03 23:57:49,250 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-03 23:57:54,781 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-03 23:57:57,448 - INFO - Metadatos extraídos de LD8XX5KEC2EQNCR9IX2RTPL9X1KQ1K.pdf:
+2026-02-03 23:57:57,448 - INFO -   Title: Españoles en el periodismo mexicano : siglo XIX y XX / comp. y ed. Pablo Mora y Ángel Miquel.
+2026-02-03 23:57:57,448 - INFO -   Author: 
+2026-02-03 23:57:57,448 - INFO -   Subject: Españoles México Historia Siglo XIX -  Españoles México Historia Siglo XX -  Periodismo México Historia Siglo XIX -  Periodismo México Historia Siglo XX
+2026-02-03 23:57:57,449 - INFO -   Keywords: 
+2026-02-03 23:57:57,449 - INFO -   Creator: 
+2026-02-03 23:57:57,455 - INFO - === Analizando LD8XX5KEC2EQNCR9IX2RTPL9X1KQ1K.pdf (8 de 367 páginas) ===
+2026-02-03 23:57:57,456 - DEBUG - Página 0: Pasta sin texto (penalización -150)
+2026-02-03 23:57:57,456 - DEBUG - Página 0: Score final = -150.0
+2026-02-03 23:57:57,566 - INFO - Página 0: score=-150.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:57:57,568 - DEBUG - Página 1: Score final = 20.0
+2026-02-03 23:57:57,642 - INFO - Página 1: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:57:57,642 - DEBUG - Página 2: Score final = 20.0
+2026-02-03 23:57:57,716 - INFO - Página 2: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:57:57,716 - DEBUG - Página 3: Score final = 20.0
+2026-02-03 23:57:57,834 - INFO - Página 3: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:57:57,835 - DEBUG - Página 4: Score final = 10.0
+2026-02-03 23:57:57,898 - INFO - Página 4: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:57:57,898 - DEBUG - Página 5: Score final = 10.0
+2026-02-03 23:57:57,963 - INFO - Página 5: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:57:57,964 - DEBUG - Página 6: Score final = 0.0
+2026-02-03 23:57:58,050 - INFO - Página 6: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:57:58,051 - DEBUG - Página 7: Score final = 0.0
+2026-02-03 23:57:58,153 - INFO - Página 7: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:57:58,154 - INFO - ✅ Mejor portada: Página 1 (score=20.0)
+2026-02-03 23:57:58,677 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-03 23:57:58,677 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-03 23:57:58,678 - DEBUG - STREAM b'IDAT' 62 1487216
+2026-02-03 23:58:02,268 - DEBUG - Intento 1/3 para LD8XX5KEC2EQNCR9IX2RTPL9X1KQ1K.pdf
+2026-02-03 23:58:02,284 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-03 23:58:07,343 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-03 23:58:10,122 - INFO - Metadatos extraídos de 7M644C8C2CK2NU3T9V9XR7QR3AM352.pdf:
+2026-02-03 23:58:10,122 - INFO -   Title: La religión azteca / Juan Carlos Pérez Guerrero
+2026-02-03 23:58:10,122 - INFO -   Author: 
+2026-02-03 23:58:10,122 - INFO -   Subject: Aztecas Religión
+2026-02-03 23:58:10,122 - INFO -   Keywords: 
+2026-02-03 23:58:10,122 - INFO -   Creator: Pérez Guerrero, Juan Carlos
+2026-02-03 23:58:10,123 - INFO - === Analizando 7M644C8C2CK2NU3T9V9XR7QR3AM352.pdf (8 de 116 páginas) ===
+2026-02-03 23:58:10,162 - DEBUG - Página 0: Keywords de portada (+60)
+2026-02-03 23:58:10,162 - DEBUG - Página 0: Cantidad ideal de palabras (+35)
+2026-02-03 23:58:10,162 - DEBUG - Página 0: Score final = 95.0
+2026-02-03 23:58:10,704 - INFO - Página 0: score=95.0, palabras=5, imágenes=1, keywords=True
+2026-02-03 23:58:10,706 - DEBUG - Página 1: Keywords de portada (+60)
+2026-02-03 23:58:10,706 - DEBUG - Página 1: Cantidad ideal de palabras (+35)
+2026-02-03 23:58:10,706 - DEBUG - Página 1: Score final = 115.0
+2026-02-03 23:58:11,207 - INFO - Página 1: score=115.0, palabras=5, imágenes=1, keywords=True
+2026-02-03 23:58:11,210 - DEBUG - Página 2: Keywords de portada (+60)
+2026-02-03 23:58:11,210 - DEBUG - Página 2: Cantidad ideal de palabras (+35)
+2026-02-03 23:58:11,210 - DEBUG - Página 2: Score final = 115.0
+2026-02-03 23:58:11,715 - INFO - Página 2: score=115.0, palabras=5, imágenes=1, keywords=True
+2026-02-03 23:58:11,715 - DEBUG - Página 3: Keywords de portada (+60)
+2026-02-03 23:58:11,715 - DEBUG - Página 3: Cantidad ideal de palabras (+35)
+2026-02-03 23:58:11,716 - DEBUG - Página 3: Score final = 115.0
+2026-02-03 23:58:12,025 - INFO - Página 3: score=115.0, palabras=5, imágenes=1, keywords=True
+2026-02-03 23:58:12,027 - DEBUG - Página 4: Keywords de portada (+60)
+2026-02-03 23:58:12,027 - DEBUG - Página 4: Cantidad ideal de palabras (+35)
+2026-02-03 23:58:12,027 - DEBUG - Página 4: Score final = 105.0
+2026-02-03 23:58:12,322 - INFO - Página 4: score=105.0, palabras=5, imágenes=1, keywords=True
+2026-02-03 23:58:12,324 - DEBUG - Página 5: Keywords de portada (+60)
+2026-02-03 23:58:12,324 - DEBUG - Página 5: Cantidad ideal de palabras (+35)
+2026-02-03 23:58:12,325 - DEBUG - Página 5: Score final = 105.0
+2026-02-03 23:58:12,493 - INFO - Página 5: score=105.0, palabras=5, imágenes=1, keywords=True
+2026-02-03 23:58:12,494 - DEBUG - Página 6: Keywords de portada (+60)
+2026-02-03 23:58:12,494 - DEBUG - Página 6: Cantidad ideal de palabras (+35)
+2026-02-03 23:58:12,494 - DEBUG - Página 6: Score final = 95.0
+2026-02-03 23:58:12,734 - INFO - Página 6: score=95.0, palabras=5, imágenes=1, keywords=True
+2026-02-03 23:58:12,735 - DEBUG - Página 7: Keywords de portada (+60)
+2026-02-03 23:58:12,735 - DEBUG - Página 7: Cantidad ideal de palabras (+35)
+2026-02-03 23:58:12,735 - DEBUG - Página 7: Score final = 95.0
+2026-02-03 23:58:12,906 - INFO - Página 7: score=95.0, palabras=5, imágenes=1, keywords=True
+2026-02-03 23:58:12,906 - INFO - ✅ Mejor portada: Página 1 (score=115.0)
+2026-02-03 23:58:14,496 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-03 23:58:14,496 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-03 23:58:14,496 - DEBUG - STREAM b'IDAT' 62 3787558
+2026-02-03 23:58:20,715 - DEBUG - Intento 1/3 para 7M644C8C2CK2NU3T9V9XR7QR3AM352.pdf
+2026-02-03 23:58:20,744 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-03 23:58:26,215 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-03 23:58:28,383 - INFO - Metadatos extraídos de UL3QGMNJ4GN85GBR2BILEJTEAQDVJ1.pdf:
+2026-02-03 23:58:28,383 - INFO -   Title: El cepo :zarzuela regional histórica en un acto i tres cuadros.
+2026-02-03 23:58:28,383 - INFO -   Author: Santiago Pacheco Cruz
+2026-02-03 23:58:28,383 - INFO -   Subject: El cepo :zarzuela regional histórica en un acto i tres cuadros, en un acto i tres cuadros, Santiago Pacheco Cruz, 000195785_ 67-8554, G 808.82 MIS.12, 1927
+2026-02-03 23:58:28,383 - INFO -   Keywords: 000195785_ 67-8554; 1927
+2026-02-03 23:58:28,384 - INFO -   Creator: Adobe Acrobat 19.21
+2026-02-03 23:58:28,385 - INFO - === Analizando UL3QGMNJ4GN85GBR2BILEJTEAQDVJ1.pdf (8 de 36 páginas) ===
+2026-02-03 23:58:28,387 - DEBUG - Página 0: Pasta sin texto (penalización -150)
+2026-02-03 23:58:28,387 - DEBUG - Página 0: Score final = -150.0
+2026-02-03 23:58:28,433 - INFO - Página 0: score=-150.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:58:28,434 - DEBUG - Página 1: Score final = 20.0
+2026-02-03 23:58:28,476 - INFO - Página 1: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:58:28,477 - DEBUG - Página 2: Score final = 20.0
+2026-02-03 23:58:28,516 - INFO - Página 2: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:58:28,517 - DEBUG - Página 3: Score final = 20.0
+2026-02-03 23:58:28,557 - INFO - Página 3: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:58:28,557 - DEBUG - Página 4: Score final = 10.0
+2026-02-03 23:58:28,590 - INFO - Página 4: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:58:28,590 - DEBUG - Página 5: Score final = 10.0
+2026-02-03 23:58:28,632 - INFO - Página 5: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:58:28,633 - DEBUG - Página 6: Score final = 0.0
+2026-02-03 23:58:28,699 - INFO - Página 6: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:58:28,700 - DEBUG - Página 7: Score final = 0.0
+2026-02-03 23:58:28,759 - INFO - Página 7: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:58:28,759 - INFO - ✅ Mejor portada: Página 1 (score=20.0)
+2026-02-03 23:58:29,067 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-03 23:58:29,068 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-03 23:58:29,068 - DEBUG - STREAM b'IDAT' 62 781326
+2026-02-03 23:58:30,889 - DEBUG - Intento 1/3 para UL3QGMNJ4GN85GBR2BILEJTEAQDVJ1.pdf
+2026-02-03 23:58:30,898 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-03 23:58:35,265 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-03 23:58:37,552 - INFO - Metadatos extraídos de 93J7RV624H3BTCJUVS8NRS6RENUYIQ.pdf:
+2026-02-03 23:58:37,553 - INFO -   Title: La defensa de la plaza de Zaragoza en 1863 /Jesus G. Ortega.
+2026-02-03 23:58:37,553 - INFO -   Author: Jesús González Ortega; 1822-1881.
+2026-02-03 23:58:37,553 - INFO -   Subject: La defensa de la plaza de Zaragoza en 1863 /Jesus G. Ortega, Jesús González Ortega, 1822-1881, 000280181_EHM_67-029549, E 972.073 GON.d. 1881, 1881.
+2026-02-03 23:58:37,553 - INFO -   Keywords: 000280181_EHM_67-029549; 1881
+2026-02-03 23:58:37,553 - INFO -   Creator: Adobe Acrobat 19.21
+2026-02-03 23:58:37,556 - INFO - === Analizando 93J7RV624H3BTCJUVS8NRS6RENUYIQ.pdf (8 de 179 páginas) ===
+2026-02-03 23:58:37,561 - DEBUG - Página 0: Pasta sin texto (penalización -150)
+2026-02-03 23:58:37,561 - DEBUG - Página 0: Score final = -150.0
+2026-02-03 23:58:37,660 - INFO - Página 0: score=-150.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:58:37,661 - DEBUG - Página 1: Score final = 20.0
+2026-02-03 23:58:37,756 - INFO - Página 1: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:58:37,757 - DEBUG - Página 2: Score final = 20.0
+2026-02-03 23:58:37,835 - INFO - Página 2: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:58:37,835 - DEBUG - Página 3: Score final = 20.0
+2026-02-03 23:58:37,884 - INFO - Página 3: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:58:37,884 - DEBUG - Página 4: Score final = 10.0
+2026-02-03 23:58:37,930 - INFO - Página 4: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:58:37,931 - DEBUG - Página 5: Score final = 10.0
+2026-02-03 23:58:37,976 - INFO - Página 5: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:58:37,976 - DEBUG - Página 6: Score final = 0.0
+2026-02-03 23:58:38,022 - INFO - Página 6: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:58:38,023 - DEBUG - Página 7: Score final = 0.0
+2026-02-03 23:58:38,080 - INFO - Página 7: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-03 23:58:38,081 - INFO - ✅ Mejor portada: Página 1 (score=20.0)
+2026-02-03 23:58:38,542 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-03 23:58:38,543 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-03 23:58:38,543 - DEBUG - STREAM b'IDAT' 62 1349958
+2026-02-03 23:58:40,377 - DEBUG - Intento 1/3 para 93J7RV624H3BTCJUVS8NRS6RENUYIQ.pdf
+2026-02-03 23:58:40,384 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-03 23:58:44,972 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-03 23:58:47,052 - INFO - Metadatos extraídos de Constancia_carro.pdf:
+2026-02-03 23:58:47,053 - INFO -   Title: Constancia
+2026-02-03 23:58:47,054 - INFO -   Author: 
+2026-02-03 23:58:47,054 - INFO -   Subject: 
+2026-02-03 23:58:47,054 - INFO -   Keywords: 
+2026-02-03 23:58:47,054 - INFO -   Creator: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+2026-02-03 23:58:47,056 - INFO - === Analizando Constancia_carro.pdf (1 de 1 páginas) ===
+2026-02-03 23:58:47,082 - DEBUG - Página 0: Muchos párrafos (-40)
+2026-02-03 23:58:47,082 - DEBUG - Página 0: Score final = -40.0
+2026-02-03 23:58:47,173 - INFO - Página 0: score=-40.0, palabras=347, imágenes=7, keywords=False
+2026-02-03 23:58:47,173 - INFO - ✅ Mejor portada: Página 0 (score=-40.0)
+2026-02-03 23:58:47,404 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-03 23:58:47,405 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-03 23:58:47,405 - DEBUG - STREAM b'IDAT' 62 399528
+2026-02-03 23:58:48,168 - DEBUG - Intento 1/3 para Constancia_carro.pdf
+2026-02-03 23:58:48,178 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-03 23:58:53,426 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-03 23:58:55,512 - INFO - Metadatos extraídos de CUENTAS FURIA.pdf:
+2026-02-03 23:58:55,513 - INFO -   Title: 
+2026-02-03 23:58:55,513 - INFO -   Author: VENTAS FURIA MOTORS 2
+2026-02-03 23:58:55,513 - INFO -   Subject: 
+2026-02-03 23:58:55,513 - INFO -   Keywords: 
+2026-02-03 23:58:55,513 - INFO -   Creator: Microsoft® Word 2019
+2026-02-03 23:58:55,515 - INFO - === Analizando CUENTAS FURIA.pdf (1 de 1 páginas) ===
+2026-02-03 23:58:55,527 - DEBUG - Página 0: Cantidad ideal de palabras (+35)
+2026-02-03 23:58:55,528 - DEBUG - Página 0: Score final = 35.0
+2026-02-03 23:58:55,563 - INFO - Página 0: score=35.0, palabras=10, imágenes=1, keywords=False
+2026-02-03 23:58:55,563 - INFO - ✅ Mejor portada: Página 0 (score=35.0)
+2026-02-03 23:58:55,706 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-03 23:58:55,706 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-03 23:58:55,706 - DEBUG - STREAM b'IDAT' 62 183341
+2026-02-03 23:58:56,061 - DEBUG - Intento 1/3 para CUENTAS FURIA.pdf
+2026-02-03 23:58:56,067 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-03 23:59:00,256 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-03 23:59:00,259 - INFO -   ✓ Autor en campo 'author': VENTAS FURIA MOTORS 2
+2026-02-03 23:59:00,984 - INFO - DB sincronizada exitosamente. 12 libros.
+2026-02-06 22:20:24,782 - INFO - DB sincronizada exitosamente. 11 libros.
+2026-02-06 22:20:24,782 - INFO - Libro eliminado: El héroe de Granaditas (0d14f07f)
+2026-02-06 22:20:29,253 - INFO - DB sincronizada exitosamente. 10 libros.
+2026-02-06 22:20:29,253 - INFO - Libro eliminado: La defensa de la plaza de Zaragoza en 1863 (e0d2f763)
+2026-02-06 22:20:34,908 - INFO - DB sincronizada exitosamente. 9 libros.
+2026-02-06 22:20:34,908 - INFO - Libro eliminado: El cepo: zarzuela regional histórica en un acto i tres cuadros (7bee1c6a)
+2026-02-06 22:20:45,764 - INFO - Metadatos extraídos de UL3QGMNJ4GN85GBR2BILEJTEAQDVJ1.pdf:
+2026-02-06 22:20:45,764 - INFO -   Title: El cepo :zarzuela regional histórica en un acto i tres cuadros.
+2026-02-06 22:20:45,764 - INFO -   Author: Santiago Pacheco Cruz
+2026-02-06 22:20:45,764 - INFO -   Subject: El cepo :zarzuela regional histórica en un acto i tres cuadros, en un acto i tres cuadros, Santiago Pacheco Cruz, 000195785_ 67-8554, G 808.82 MIS.12, 1927
+2026-02-06 22:20:45,765 - INFO -   Keywords: 000195785_ 67-8554; 1927
+2026-02-06 22:20:45,765 - INFO -   Creator: Adobe Acrobat 19.21
+2026-02-06 22:20:45,766 - INFO - === Analizando UL3QGMNJ4GN85GBR2BILEJTEAQDVJ1.pdf (8 de 36 páginas) ===
+2026-02-06 22:20:45,778 - DEBUG - Página 0: Pasta sin texto (penalización -150)
+2026-02-06 22:20:45,778 - DEBUG - Página 0: Score final = -150.0
+2026-02-06 22:20:45,825 - INFO - Página 0: score=-150.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:20:45,825 - DEBUG - Página 1: Score final = 20.0
+2026-02-06 22:20:45,867 - INFO - Página 1: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:20:45,867 - DEBUG - Página 2: Score final = 20.0
+2026-02-06 22:20:45,903 - INFO - Página 2: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:20:45,903 - DEBUG - Página 3: Score final = 20.0
+2026-02-06 22:20:45,949 - INFO - Página 3: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:20:45,949 - DEBUG - Página 4: Score final = 10.0
+2026-02-06 22:20:45,984 - INFO - Página 4: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:20:45,985 - DEBUG - Página 5: Score final = 10.0
+2026-02-06 22:20:46,018 - INFO - Página 5: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:20:46,018 - DEBUG - Página 6: Score final = 0.0
+2026-02-06 22:20:46,052 - INFO - Página 6: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:20:46,052 - DEBUG - Página 7: Score final = 0.0
+2026-02-06 22:20:46,085 - INFO - Página 7: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:20:46,085 - INFO - ✅ Mejor portada: Página 1 (score=20.0)
+2026-02-06 22:20:46,383 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-06 22:20:46,383 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-06 22:20:46,383 - DEBUG - STREAM b'IDAT' 62 781326
+2026-02-06 22:20:47,486 - DEBUG - Intento 1/3 para UL3QGMNJ4GN85GBR2BILEJTEAQDVJ1.pdf
+2026-02-06 22:20:47,497 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-06 22:20:53,228 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-06 22:20:53,324 - INFO - DB sincronizada exitosamente. 10 libros.
+2026-02-06 22:26:29,488 - INFO - DB sincronizada exitosamente. 9 libros.
+2026-02-06 22:26:29,489 - INFO - Libro eliminado: Histoire sacrée de la providence et de la conduite de Dieu sur les hommes Depuis le commencement du monde jusqúaux tem ps prédits dans l'Apocalypse, tirée de l'Ancien et du Nouveau Testament, representée en cinq cent tableaux gravez d'a prés Raphael et autres grands maítres et expliquée par les paroles méme de l'Ecriture en latin et en francois. Trois volumes in quarto. Dediée-- par Demarne.
+2026-02-06 22:26:30,500 - INFO - DB sincronizada exitosamente. 8 libros.
+2026-02-06 22:26:30,501 - INFO - Libro eliminado: El Dr. D. Mariano Gálvez ante la primera sala de la Suprema Corte de Justicia, en el negocio del recurso de fuerza, que había interpuesto y después retiró el devoto provincial del Carmen, por la que el señor provisor y vicario general del arzobispado hacía en intentar conocer de la demanda sobre la enagenación de la hacienda de Chichimequillas
+2026-02-06 22:26:31,051 - INFO - DB sincronizada exitosamente. 7 libros.
+2026-02-06 22:26:31,051 - INFO - Libro eliminado: Sermón predicado en la Insigne Colegiata de Nuestra Señora de Guadalupe ... sobre el estado actual de los indios y su conversión, el 28 de octubre de 1895.
+2026-02-06 22:26:31,536 - INFO - DB sincronizada exitosamente. 6 libros.
+2026-02-06 22:26:31,536 - INFO - Libro eliminado: Vocabulario manual de las lenguas Castellana y Mexicana
+2026-02-06 22:26:32,329 - INFO - DB sincronizada exitosamente. 5 libros.
+2026-02-06 22:26:32,329 - INFO - Libro eliminado: Isaac Arriaga: trabajos premiados en el concurso escolar de biografías, abierto por la Biblioteca Isaac Arriaga en la Casa del Agrarista
+2026-02-06 22:26:33,260 - INFO - DB sincronizada exitosamente. 4 libros.
+2026-02-06 22:26:33,260 - INFO - Libro eliminado: Españoles en el periodismo mexicano Siglos XIX y XX
+2026-02-06 22:26:33,994 - INFO - DB sincronizada exitosamente. 3 libros.
+2026-02-06 22:26:33,994 - INFO - Libro eliminado: La religión azteca
+2026-02-06 22:26:34,358 - INFO - DB sincronizada exitosamente. 2 libros.
+2026-02-06 22:26:34,358 - INFO - Libro eliminado: Constancia de Trámite de Control Vehicular para Servicio Particular
+2026-02-06 22:26:34,678 - INFO - DB sincronizada exitosamente. 1 libros.
+2026-02-06 22:26:34,678 - INFO - Libro eliminado: Cuentas Bancarias
+2026-02-06 22:27:21,511 - INFO - DB sincronizada exitosamente. 0 libros.
+2026-02-06 22:27:21,512 - INFO - Libro eliminado: El cepo: zarzuela regional histórica en un acto i tres cuadros
+2026-02-06 22:27:30,698 - INFO - Metadatos extraídos de UL3QGMNJ4GN85GBR2BILEJTEAQDVJ1.pdf:
+2026-02-06 22:27:30,698 - INFO -   Title: El cepo :zarzuela regional histórica en un acto i tres cuadros.
+2026-02-06 22:27:30,698 - INFO -   Author: Santiago Pacheco Cruz
+2026-02-06 22:27:30,698 - INFO -   Subject: El cepo :zarzuela regional histórica en un acto i tres cuadros, en un acto i tres cuadros, Santiago Pacheco Cruz, 000195785_ 67-8554, G 808.82 MIS.12, 1927
+2026-02-06 22:27:30,698 - INFO -   Keywords: 000195785_ 67-8554; 1927
+2026-02-06 22:27:30,698 - INFO -   Creator: Adobe Acrobat 19.21
+2026-02-06 22:27:30,704 - INFO - === Analizando UL3QGMNJ4GN85GBR2BILEJTEAQDVJ1.pdf (8 de 36 páginas) ===
+2026-02-06 22:27:30,706 - DEBUG - Página 0: Pasta sin texto (penalización -150)
+2026-02-06 22:27:30,706 - DEBUG - Página 0: Score final = -150.0
+2026-02-06 22:27:30,752 - INFO - Página 0: score=-150.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:27:30,752 - DEBUG - Página 1: Score final = 20.0
+2026-02-06 22:27:30,785 - INFO - Página 1: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:27:30,785 - DEBUG - Página 2: Score final = 20.0
+2026-02-06 22:27:30,821 - INFO - Página 2: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:27:30,821 - DEBUG - Página 3: Score final = 20.0
+2026-02-06 22:27:30,857 - INFO - Página 3: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:27:30,857 - DEBUG - Página 4: Score final = 10.0
+2026-02-06 22:27:30,889 - INFO - Página 4: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:27:30,890 - DEBUG - Página 5: Score final = 10.0
+2026-02-06 22:27:30,921 - INFO - Página 5: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:27:30,921 - DEBUG - Página 6: Score final = 0.0
+2026-02-06 22:27:30,950 - INFO - Página 6: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:27:30,950 - DEBUG - Página 7: Score final = 0.0
+2026-02-06 22:27:30,980 - INFO - Página 7: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:27:30,980 - INFO - ✅ Mejor portada: Página 1 (score=20.0)
+2026-02-06 22:27:31,269 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-06 22:27:31,269 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-06 22:27:31,269 - DEBUG - STREAM b'IDAT' 62 781326
+2026-02-06 22:27:32,342 - DEBUG - Intento 1/3 para UL3QGMNJ4GN85GBR2BILEJTEAQDVJ1.pdf
+2026-02-06 22:27:32,350 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-06 22:27:37,702 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-06 22:27:37,792 - INFO - DB sincronizada exitosamente. 1 libros.
+2026-02-06 22:34:04,731 - INFO - Metadatos extraídos de 45CFH5MD1GV6CRXXMBQ2J237ML425B.pdf:
+2026-02-06 22:34:04,731 - INFO -   Title: Histoire sacrée de la providence et de la conduite de Dieu sur les hommes Depuis le commencement du monde jusqúiaux tem ps prédits dans l'Apocalypse, tirée de l'Ancien et du Nouveau Testament, representée en cinq cent tableaux gravez d'a prés Raphael et autres grands maítres et expliquée par les paroles méme de l'Ecriture en latin et en francois. Trois volumes in quarto. Dediée-- par Demarne.
+2026-02-06 22:34:04,731 - INFO -   Author: 
+2026-02-06 22:34:04,735 - INFO -   Subject: Año: 1728
+Clasificación: 220.084MAR.h.
+2026-02-06 22:34:04,735 - INFO -   Keywords: Histoire sacrée de la providence et de la conduite de Dieu sur les hommes Depuis le commencement du monde jusqúiaux tem ps prédits dans l'Apocalypse; tirée de l'Ancien et du Nouveau Testament; representée en cinq cent tableaux gravez d'a prés Raphael et autres grands maítres et expliquée par les paroles méme de l'Ecriture en latin et en francois. Trois volumes in quarto. Dediée-- par Demarne; 1728
+2026-02-06 22:34:04,735 - INFO -   Creator: Adobe Acrobat 10.1.1
+2026-02-06 22:34:04,737 - INFO - === Analizando 45CFH5MD1GV6CRXXMBQ2J237ML425B.pdf (8 de 70 páginas) ===
+2026-02-06 22:34:04,741 - DEBUG - Página 0: Pasta sin texto (penalización -150)
+2026-02-06 22:34:04,741 - DEBUG - Página 0: Score final = -150.0
+2026-02-06 22:34:04,802 - INFO - Página 0: score=-150.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:34:04,808 - DEBUG - Página 1: Score final = 20.0
+2026-02-06 22:34:04,880 - INFO - Página 1: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:34:04,887 - DEBUG - Página 2: Score final = 20.0
+2026-02-06 22:34:04,953 - INFO - Página 2: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:34:04,953 - DEBUG - Página 3: Score final = 20.0
+2026-02-06 22:34:05,038 - INFO - Página 3: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:34:05,040 - DEBUG - Página 4: Score final = 10.0
+2026-02-06 22:34:05,095 - INFO - Página 4: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:34:05,097 - DEBUG - Página 5: Score final = 10.0
+2026-02-06 22:34:05,154 - INFO - Página 5: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:34:05,155 - DEBUG - Página 6: Score final = 0.0
+2026-02-06 22:34:05,198 - INFO - Página 6: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:34:05,198 - DEBUG - Página 7: Score final = 0.0
+2026-02-06 22:34:05,238 - INFO - Página 7: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:34:05,238 - INFO - ✅ Mejor portada: Página 1 (score=20.0)
+2026-02-06 22:34:05,413 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-06 22:34:05,413 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-06 22:34:05,413 - DEBUG - STREAM b'IDAT' 62 558418
+2026-02-06 22:34:05,831 - DEBUG - Intento 1/3 para 45CFH5MD1GV6CRXXMBQ2J237ML425B.pdf
+2026-02-06 22:34:05,837 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-06 22:34:16,830 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-06 22:34:16,925 - INFO - DB sincronizada exitosamente. 2 libros.
+2026-02-06 22:34:26,137 - INFO - DB sincronizada exitosamente. 1 libros.
+2026-02-06 22:34:26,137 - INFO - Libro eliminado: El cepo: zarzuela regional histórica en un acto i tres cuadros (7bee1c6a)
+2026-02-06 22:34:31,040 - INFO - DB sincronizada exitosamente. 0 libros.
+2026-02-06 22:34:31,040 - INFO - Libro eliminado: Histoire sacrée de la providence et de la conduite de Dieu sur les hommes Depuis le commencement du monde jusqúiaux tem ps prédits dans l'Apocalypse, tirée de l'Ancien et du Nouveau Testament, representée en cinq cent tableaux gravez d'a prés Raphael et autres grands maítres et expliquée par les paroles méme de l'Ecriture en latin et en francois. Trois volumes in quarto. Dediée-- par Demarne. (ff377a63)
+2026-02-06 22:34:52,037 - INFO - Metadatos extraídos de 45CFH5MD1GV6CRXXMBQ2J237ML425B.pdf:
+2026-02-06 22:34:52,037 - INFO -   Title: Histoire sacrée de la providence et de la conduite de Dieu sur les hommes Depuis le commencement du monde jusqúiaux tem ps prédits dans l'Apocalypse, tirée de l'Ancien et du Nouveau Testament, representée en cinq cent tableaux gravez d'a prés Raphael et autres grands maítres et expliquée par les paroles méme de l'Ecriture en latin et en francois. Trois volumes in quarto. Dediée-- par Demarne.
+2026-02-06 22:34:52,037 - INFO -   Author: 
+2026-02-06 22:34:52,037 - INFO -   Subject: Año: 1728
+Clasificación: 220.084MAR.h.
+2026-02-06 22:34:52,037 - INFO -   Keywords: Histoire sacrée de la providence et de la conduite de Dieu sur les hommes Depuis le commencement du monde jusqúiaux tem ps prédits dans l'Apocalypse; tirée de l'Ancien et du Nouveau Testament; representée en cinq cent tableaux gravez d'a prés Raphael et autres grands maítres et expliquée par les paroles méme de l'Ecriture en latin et en francois. Trois volumes in quarto. Dediée-- par Demarne; 1728
+2026-02-06 22:34:52,038 - INFO -   Creator: Adobe Acrobat 10.1.1
+2026-02-06 22:34:52,040 - INFO - === Analizando 45CFH5MD1GV6CRXXMBQ2J237ML425B.pdf (8 de 70 páginas) ===
+2026-02-06 22:34:52,043 - DEBUG - Página 0: Pasta sin texto (penalización -150)
+2026-02-06 22:34:52,043 - DEBUG - Página 0: Score final = -150.0
+2026-02-06 22:34:52,085 - INFO - Página 0: score=-150.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:34:52,085 - DEBUG - Página 1: Score final = 20.0
+2026-02-06 22:34:52,115 - INFO - Página 1: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:34:52,115 - DEBUG - Página 2: Score final = 20.0
+2026-02-06 22:34:52,140 - INFO - Página 2: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:34:52,146 - DEBUG - Página 3: Score final = 20.0
+2026-02-06 22:34:52,172 - INFO - Página 3: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:34:52,172 - DEBUG - Página 4: Score final = 10.0
+2026-02-06 22:34:52,201 - INFO - Página 4: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:34:52,201 - DEBUG - Página 5: Score final = 10.0
+2026-02-06 22:34:52,240 - INFO - Página 5: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:34:52,243 - DEBUG - Página 6: Score final = 0.0
+2026-02-06 22:34:52,273 - INFO - Página 6: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:34:52,273 - DEBUG - Página 7: Score final = 0.0
+2026-02-06 22:34:52,302 - INFO - Página 7: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:34:52,302 - INFO - ✅ Mejor portada: Página 1 (score=20.0)
+2026-02-06 22:34:52,392 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-06 22:34:52,392 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-06 22:34:52,392 - DEBUG - STREAM b'IDAT' 62 558418
+2026-02-06 22:34:52,753 - DEBUG - Intento 1/3 para 45CFH5MD1GV6CRXXMBQ2J237ML425B.pdf
+2026-02-06 22:34:52,753 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-06 22:34:59,950 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-06 22:35:00,060 - INFO - DB sincronizada exitosamente. 1 libros.
+2026-02-06 22:39:38,944 - INFO - DB sincronizada exitosamente. 0 libros.
+2026-02-06 22:39:38,944 - INFO - Libro eliminado: Histoire sacrée de la providence et de la conduite de Dieu sur les hommes Depuis le commencement du monde jusqúiaux tem ps prédits dans l'Apocalypse, tirée de l'Ancien et du Nouveau Testament, representée en cinq cent tableaux gravez d'a prés Raphael et autres grands maítres et expliquée par les paroles méme de l'Ecriture en latin et en francois. Trois volumes in quarto. Dediée-- par Demarne. (ff377a63)
+2026-02-06 22:39:57,293 - INFO - Metadatos extraídos de 4TXMIT37X3F1I5IBR2EPC9UTCJH72A.pdf:
+2026-02-06 22:39:57,293 - INFO -   Title: [El héroe de Granaditas]
+2026-02-06 22:39:57,293 - INFO -   Author: 
+2026-02-06 22:39:57,293 - INFO -   Subject: Martínez, Juan José , llamado El Pípila 1792-1872
+2026-02-06 22:39:57,293 - INFO -   Keywords: 
+2026-02-06 22:39:57,293 - INFO -   Creator: México (D. F.). Dirección de Acción Cívica, de Reforma y Cultural
+2026-02-06 22:39:57,293 - INFO - === Analizando 4TXMIT37X3F1I5IBR2EPC9UTCJH72A.pdf (2 de 2 páginas) ===
+2026-02-06 22:39:57,293 - DEBUG - Página 0: Pasta sin texto (penalización -150)
+2026-02-06 22:39:57,293 - DEBUG - Página 0: Score final = -150.0
+2026-02-06 22:39:57,322 - INFO - Página 0: score=-150.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:39:57,322 - DEBUG - Página 1: Score final = 20.0
+2026-02-06 22:39:57,340 - INFO - Página 1: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:39:57,340 - INFO - ✅ Mejor portada: Página 1 (score=20.0)
+2026-02-06 22:39:57,651 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-06 22:39:57,651 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-06 22:39:57,651 - DEBUG - STREAM b'IDAT' 62 1336591
+2026-02-06 22:39:58,793 - DEBUG - Intento 1/3 para 4TXMIT37X3F1I5IBR2EPC9UTCJH72A.pdf
+2026-02-06 22:39:58,808 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-06 22:40:05,186 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-06 22:40:16,466 - INFO - Metadatos extraídos de 4TXMIT37X3F1I5IBR2EPC9UTCJH72A.pdf:
+2026-02-06 22:40:16,466 - INFO -   Title: [El héroe de Granaditas]
+2026-02-06 22:40:16,466 - INFO -   Author: 
+2026-02-06 22:40:16,466 - INFO -   Subject: Martínez, Juan José , llamado El Pípila 1792-1872
+2026-02-06 22:40:16,466 - INFO -   Keywords: 
+2026-02-06 22:40:16,467 - INFO -   Creator: México (D. F.). Dirección de Acción Cívica, de Reforma y Cultural
+2026-02-06 22:40:16,467 - INFO - === Analizando 4TXMIT37X3F1I5IBR2EPC9UTCJH72A.pdf (2 de 2 páginas) ===
+2026-02-06 22:40:16,467 - DEBUG - Página 0: Pasta sin texto (penalización -150)
+2026-02-06 22:40:16,467 - DEBUG - Página 0: Score final = -150.0
+2026-02-06 22:40:16,493 - INFO - Página 0: score=-150.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:40:16,493 - DEBUG - Página 1: Score final = 20.0
+2026-02-06 22:40:16,508 - INFO - Página 1: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:40:16,508 - INFO - ✅ Mejor portada: Página 1 (score=20.0)
+2026-02-06 22:40:16,815 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-06 22:40:16,815 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-06 22:40:16,815 - DEBUG - STREAM b'IDAT' 62 1336591
+2026-02-06 22:40:17,905 - DEBUG - Intento 1/3 para 4TXMIT37X3F1I5IBR2EPC9UTCJH72A.pdf
+2026-02-06 22:40:17,905 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-06 22:40:24,756 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-06 22:40:24,849 - INFO - DB sincronizada exitosamente. 1 libros.
+2026-02-06 22:42:36,951 - INFO - DB sincronizada exitosamente. 0 libros.
+2026-02-06 22:42:36,951 - INFO - Libro eliminado: El héroe de Granaditas (0d14f07f)
+2026-02-06 22:43:43,791 - INFO - Metadatos extraídos de NX78QLFXT1XKTD9B6UST428UPQ2CPX.pdf:
+2026-02-06 22:43:43,791 - INFO -   Title: El Dr. D. Mariano Gálvez ante la primera sala de la Suprema Corte de Justicia, en el negocio del recurso de fuerza, que había interpuesto y después retiró el devoto provincial del Carmen, por la que el señor provisor y vicario general del arzobispado hacía en intentar conocer de la demanda sobre la enagenación [sic] de la hacienda de Chichimequillas
+2026-02-06 22:43:43,791 - INFO -   Author: Mariano Gálvez
+2026-02-06 22:43:43,791 - INFO -   Subject: Año: 1852
+Clasificación: 208 MIS.11
+2026-02-06 22:43:43,791 - INFO -   Keywords: El Dr. D. Mariano Gálvez ante la primera sala de la Suprema Corte de Justicia; en el negocio del recurso de fuerza; que había interpuesto y después retiró el devoto provincial del Carmen; por la que el señor provisor y vicario general del arzobispado hacía en intentar conocer de la demanda sobre la enagenación [sic] de la hacienda de Chichimequillas; Mariano Gálvez; 1852
+2026-02-06 22:43:43,791 - INFO -   Creator: Adobe Acrobat 10.1.1
+2026-02-06 22:43:43,791 - INFO - === Analizando NX78QLFXT1XKTD9B6UST428UPQ2CPX.pdf (8 de 57 páginas) ===
+2026-02-06 22:43:43,806 - DEBUG - Página 0: Pasta sin texto (penalización -150)
+2026-02-06 22:43:43,806 - DEBUG - Página 0: Score final = -150.0
+2026-02-06 22:43:43,873 - INFO - Página 0: score=-150.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:43:43,873 - DEBUG - Página 1: Score final = 20.0
+2026-02-06 22:43:43,917 - INFO - Página 1: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:43:43,917 - DEBUG - Página 2: Score final = 20.0
+2026-02-06 22:43:43,956 - INFO - Página 2: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:43:43,956 - DEBUG - Página 3: Score final = 20.0
+2026-02-06 22:43:43,981 - INFO - Página 3: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:43:43,981 - DEBUG - Página 4: Score final = 10.0
+2026-02-06 22:43:44,023 - INFO - Página 4: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:43:44,023 - DEBUG - Página 5: Score final = 10.0
+2026-02-06 22:43:44,071 - INFO - Página 5: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:43:44,071 - DEBUG - Página 6: Score final = 0.0
+2026-02-06 22:43:44,102 - INFO - Página 6: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:43:44,102 - DEBUG - Página 7: Score final = 0.0
+2026-02-06 22:43:44,133 - INFO - Página 7: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:43:44,133 - INFO - ✅ Mejor portada: Página 1 (score=20.0)
+2026-02-06 22:43:44,351 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-06 22:43:44,351 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-06 22:43:44,351 - DEBUG - STREAM b'IDAT' 62 1913543
+2026-02-06 22:43:45,193 - DEBUG - Intento 1/3 para NX78QLFXT1XKTD9B6UST428UPQ2CPX.pdf
+2026-02-06 22:43:45,204 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-06 22:43:52,358 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-06 22:43:52,474 - INFO - DB sincronizada exitosamente. 1 libros.
+2026-02-06 22:55:27,593 - INFO - Metadatos extraídos de UL3QGMNJ4GN85GBR2BILEJTEAQDVJ1.pdf:
+2026-02-06 22:55:27,594 - INFO -   Title: El cepo :zarzuela regional histórica en un acto i tres cuadros.
+2026-02-06 22:55:27,595 - INFO -   Author: Santiago Pacheco Cruz
+2026-02-06 22:55:27,595 - INFO -   Subject: El cepo :zarzuela regional histórica en un acto i tres cuadros, en un acto i tres cuadros, Santiago Pacheco Cruz, 000195785_ 67-8554, G 808.82 MIS.12, 1927
+2026-02-06 22:55:27,596 - INFO -   Keywords: 000195785_ 67-8554; 1927
+2026-02-06 22:55:27,597 - INFO -   Creator: Adobe Acrobat 19.21
+2026-02-06 22:55:27,599 - INFO - === Analizando UL3QGMNJ4GN85GBR2BILEJTEAQDVJ1.pdf (8 de 36 páginas) ===
+2026-02-06 22:55:27,601 - DEBUG - Página 0: Pasta sin texto (penalización -150)
+2026-02-06 22:55:27,603 - DEBUG - Página 0: Score final = -150.0
+2026-02-06 22:55:27,656 - INFO - Página 0: score=-150.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:55:27,656 - DEBUG - Página 1: Score final = 20.0
+2026-02-06 22:55:27,711 - INFO - Página 1: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:55:27,711 - DEBUG - Página 2: Score final = 20.0
+2026-02-06 22:55:27,747 - INFO - Página 2: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:55:27,748 - DEBUG - Página 3: Score final = 20.0
+2026-02-06 22:55:27,784 - INFO - Página 3: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:55:27,786 - DEBUG - Página 4: Score final = 10.0
+2026-02-06 22:55:27,820 - INFO - Página 4: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:55:27,820 - DEBUG - Página 5: Score final = 10.0
+2026-02-06 22:55:27,857 - INFO - Página 5: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:55:27,857 - DEBUG - Página 6: Score final = 0.0
+2026-02-06 22:55:27,892 - INFO - Página 6: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:55:27,898 - DEBUG - Página 7: Score final = 0.0
+2026-02-06 22:55:27,941 - INFO - Página 7: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 22:55:27,941 - INFO - ✅ Mejor portada: Página 1 (score=20.0)
+2026-02-06 22:55:28,189 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-06 22:55:28,189 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-06 22:55:28,189 - DEBUG - STREAM b'IDAT' 62 781326
+2026-02-06 22:55:29,346 - DEBUG - Intento 1/3 para UL3QGMNJ4GN85GBR2BILEJTEAQDVJ1.pdf
+2026-02-06 22:55:29,352 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-06 22:55:33,849 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-06 22:55:33,949 - INFO - DB sincronizada exitosamente. 2 libros.
+2026-02-06 22:59:46,966 - INFO - Metadatos extraídos de Constancia_carro.pdf:
+2026-02-06 22:59:46,966 - INFO -   Title: Constancia
+2026-02-06 22:59:46,966 - INFO -   Author: 
+2026-02-06 22:59:46,966 - INFO -   Subject: 
+2026-02-06 22:59:46,967 - INFO -   Keywords: 
+2026-02-06 22:59:46,969 - INFO -   Creator: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+2026-02-06 22:59:46,969 - INFO - === Analizando Constancia_carro.pdf (1 de 1 páginas) ===
+2026-02-06 22:59:47,016 - DEBUG - Página 0: Muchos párrafos (-40)
+2026-02-06 22:59:47,016 - DEBUG - Página 0: Score final = -40.0
+2026-02-06 22:59:47,200 - INFO - Página 0: score=-40.0, palabras=347, imágenes=7, keywords=False
+2026-02-06 22:59:47,200 - INFO - ✅ Mejor portada: Página 0 (score=-40.0)
+2026-02-06 22:59:47,355 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-06 22:59:47,356 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-06 22:59:47,356 - DEBUG - STREAM b'IDAT' 62 399528
+2026-02-06 22:59:47,824 - DEBUG - Intento 1/3 para Constancia_carro.pdf
+2026-02-06 22:59:47,838 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-06 22:59:57,705 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-06 22:59:57,835 - INFO - DB sincronizada exitosamente. 3 libros.
+2026-02-06 23:03:14,999 - INFO - DB sincronizada exitosamente. 2 libros.
+2026-02-06 23:03:15,000 - INFO - Libro eliminado: Constancia de Trámite de Control Vehicular para Servicio Particular (5dd7544d)
+2026-02-06 23:03:20,539 - INFO - DB sincronizada exitosamente. 1 libros.
+2026-02-06 23:03:20,539 - INFO - Libro eliminado: El cepo: zarzuela regional histórica en un acto i tres cuadros (7bee1c6a)
+2026-02-06 23:03:23,147 - INFO - Metadatos extraídos de UL3QGMNJ4GN85GBR2BILEJTEAQDVJ1.pdf:
+2026-02-06 23:03:23,148 - INFO -   Title: El cepo :zarzuela regional histórica en un acto i tres cuadros.
+2026-02-06 23:03:23,148 - INFO -   Author: Santiago Pacheco Cruz
+2026-02-06 23:03:23,148 - INFO -   Subject: El cepo :zarzuela regional histórica en un acto i tres cuadros, en un acto i tres cuadros, Santiago Pacheco Cruz, 000195785_ 67-8554, G 808.82 MIS.12, 1927
+2026-02-06 23:03:23,148 - INFO -   Keywords: 000195785_ 67-8554; 1927
+2026-02-06 23:03:23,148 - INFO -   Creator: Adobe Acrobat 19.21
+2026-02-06 23:03:23,148 - INFO - === Analizando UL3QGMNJ4GN85GBR2BILEJTEAQDVJ1.pdf (8 de 36 páginas) ===
+2026-02-06 23:03:23,160 - DEBUG - Página 0: Pasta sin texto (penalización -150)
+2026-02-06 23:03:23,161 - DEBUG - Página 0: Score final = -150.0
+2026-02-06 23:03:23,209 - INFO - Página 0: score=-150.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 23:03:23,209 - DEBUG - Página 1: Score final = 20.0
+2026-02-06 23:03:23,245 - INFO - Página 1: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 23:03:23,245 - DEBUG - Página 2: Score final = 20.0
+2026-02-06 23:03:23,283 - INFO - Página 2: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 23:03:23,283 - DEBUG - Página 3: Score final = 20.0
+2026-02-06 23:03:23,318 - INFO - Página 3: score=20.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 23:03:23,318 - DEBUG - Página 4: Score final = 10.0
+2026-02-06 23:03:23,347 - INFO - Página 4: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 23:03:23,347 - DEBUG - Página 5: Score final = 10.0
+2026-02-06 23:03:23,393 - INFO - Página 5: score=10.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 23:03:23,393 - DEBUG - Página 6: Score final = 0.0
+2026-02-06 23:03:23,427 - INFO - Página 6: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 23:03:23,427 - DEBUG - Página 7: Score final = 0.0
+2026-02-06 23:03:23,467 - INFO - Página 7: score=0.0, palabras=0, imágenes=1, keywords=False
+2026-02-06 23:03:23,467 - INFO - ✅ Mejor portada: Página 1 (score=20.0)
+2026-02-06 23:03:23,750 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-06 23:03:23,750 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-06 23:03:23,750 - DEBUG - STREAM b'IDAT' 62 781326
+2026-02-06 23:03:25,011 - DEBUG - Intento 1/3 para UL3QGMNJ4GN85GBR2BILEJTEAQDVJ1.pdf
+2026-02-06 23:03:25,016 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-06 23:03:30,632 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-06 23:03:32,708 - INFO - Metadatos extraídos de Constancia_carro.pdf:
+2026-02-06 23:03:32,708 - INFO -   Title: Constancia
+2026-02-06 23:03:32,708 - INFO -   Author: 
+2026-02-06 23:03:32,708 - INFO -   Subject: 
+2026-02-06 23:03:32,708 - INFO -   Keywords: 
+2026-02-06 23:03:32,708 - INFO -   Creator: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+2026-02-06 23:03:32,712 - INFO - === Analizando Constancia_carro.pdf (1 de 1 páginas) ===
+2026-02-06 23:03:32,740 - DEBUG - Página 0: Muchos párrafos (-40)
+2026-02-06 23:03:32,740 - DEBUG - Página 0: Score final = -40.0
+2026-02-06 23:03:32,801 - INFO - Página 0: score=-40.0, palabras=347, imágenes=7, keywords=False
+2026-02-06 23:03:32,801 - INFO - ✅ Mejor portada: Página 0 (score=-40.0)
+2026-02-06 23:03:32,940 - DEBUG - STREAM b'IHDR' 16 13
+2026-02-06 23:03:32,940 - DEBUG - STREAM b'pHYs' 41 9
+2026-02-06 23:03:32,940 - DEBUG - STREAM b'IDAT' 62 399528
+2026-02-06 23:03:33,353 - DEBUG - Intento 1/3 para Constancia_carro.pdf
+2026-02-06 23:03:33,369 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2026-02-06 23:03:39,046 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2026-02-06 23:03:39,146 - INFO - DB sincronizada exitosamente. 3 libros.

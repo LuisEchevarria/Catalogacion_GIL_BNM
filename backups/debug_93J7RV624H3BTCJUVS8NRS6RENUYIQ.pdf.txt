@@ -1,0 +1,3 @@
+ERROR: No se pudo parsear JSON de OpenAI
+Archivo: 93J7RV624H3BTCJUVS8NRS6RENUYIQ.pdf
+Respuesta: Lo siento, no puedo analizar el contenido de la imagen proporcionada.
